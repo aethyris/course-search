@@ -1,6 +1,8 @@
 # Course Search App
 
-This is a demo RESTful API solution that provides information about offered courses. Utilizes Express, Handlebars, and Bootstrap.
+This is a SPA that provides information about offered courses using a RESTful API. Utilizes Express, Handlebars, and Bootstrap.
+
+Deployed at: [https://awesome-hermann-b62155.netlify.app/](https://awesome-hermann-b62155.netlify.app/)
 
 ## Start
 The RESTful API is deployed [here](https://course-search-restapi.herokuapp.com/api), but can also be hosted locally.
