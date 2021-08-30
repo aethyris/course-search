@@ -1,0 +1,87 @@
+{
+	"courses": [{
+			"course_code": "CS751",
+			"course_level": "graduate",
+			"title": "Natural Language Processing",
+			"instructor": "Dr. Lawrence Taylor"
+		},
+		{
+			"course_code": "CS612",
+			"course_level": "graduate",
+			"title": "Data Mining I",
+			"instructor": "Dr. Lawrence Taylor"
+		},
+		{
+			"course_code": "CS611",
+			"course_level": "graduate",
+			"title": "Data Mining II",
+			"instructor": "Dr. Miranda Pena"
+		},
+		{
+			"course_code": "CS762",
+			"course_level": "graduate",
+			"title": "Artificial Intelligence",
+			"instructor": "Dr. Lawrence Taylor"
+		},
+		{
+			"course_code": "CS761",
+			"course_level": "graduate",
+			"title": "Deep Neural Netowrks",
+			"instructor": "Dr. Lawrence Taylor"
+		},
+		{
+			"course_code": "CUS752",
+			"course_level": "graduate",
+			"title": "Brain Computer Inferfaces",
+			"instructor": "Dr. Lawrence Taylor"
+		},
+		{
+			"course_code": "CUS722",
+			"course_level": "graduate",
+			"title": "Advanced Database Management Systems",
+			"instructor": "Dr. Marjorie Burke"
+		},
+		{
+			"course_code": "CS1144",
+			"course_level": "undergraduate",
+			"title": "Software Engineering",
+			"instructor": "Dr. Lawrence Taylor"
+		},
+		{
+			"course_code": "CS1144",
+			"course_level": "undergraduate",
+			"title": "Software Engineering",
+			"instructor": "Dr. Henry Turner"
+		},
+		{
+			"course_code": "CS1144",
+			"course_level": "undergraduate",
+			"title": "Software Engineering",
+			"instructor": "Dr. Henry Turner"
+		},
+		{
+			"course_code": "CS1144",
+			"course_level": "undergraduate",
+			"title": "Software Engineering",
+			"instructor": "Dr. Julian Shelton"
+		},
+		{
+			"course_code": "CS1132",
+			"course_level": "undergraduate",
+			"title": "Software Design",
+			"instructor": "Dr. Henry Turner"
+		},
+		{
+			"course_code": "CS1154",
+			"course_level": "undergraduate",
+			"title": "Operating Systems",
+			"instructor": "Dr. Jason Pena"
+		},
+		{
+			"course_code": "CS1161",
+			"course_level": "undergraduate",
+			"title": "Theory of Programming Languages",
+			"instructor": "Dr. Lawrence Taylor"
+		}
+	]
+}
